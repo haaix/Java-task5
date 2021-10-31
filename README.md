@@ -43,6 +43,6 @@
 ```
 
 ## 运行结果
-![](D:\Java\Java课程\作业5\作业4运行结果.png)
+![](https://github.com/haaix/java-task5/blob/master/%E4%BD%9C%E4%B8%9A4%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 
