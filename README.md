@@ -44,6 +44,6 @@
 
 ## 四、运行结果
 &emsp;&emsp;通过运行结果分析得出，当对象在方法中做形参时，实际指向了实参的地址，所以在方法调用时，改变形参的同时也改变了实参，也同样改变了指向这一地址的其他类里面的该对象。
-![] (https://github.com/haaix/java-task5/blob/master/%E4%BD%9C%E4%B8%9A4%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+![](https://github.com/haaix/java-task5/blob/master/%E4%BD%9C%E4%B8%9A4%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 
 
